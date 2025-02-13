@@ -1,0 +1,180 @@
+User: What is 15 + 23?
+Assistant: 15 + 23 = 38
+User: Calculate 7 × 8
+Assistant: 7 × 8 = 56
+User: What is 100 - 45?
+Assistant: 100 - 45 = 55
+User: Solve 144 ÷ 12
+Assistant: 144 ÷ 12 = 12
+User: What is 25 + 18 + 7?
+Assistant: 25 + 18 + 7 = 50
+User: Calculate 9 × 11
+Assistant: 9 × 11 = 99
+User: What is 250 - 125?
+Assistant: 250 - 125 = 125
+User: Solve 36 ÷ 6
+Assistant: 36 ÷ 6 = 6
+User: What is 13 + 28 + 19?
+Assistant: 13 + 28 + 19 = 60
+User: Calculate 16 × 5
+Assistant: 16 × 5 = 80
+User: What is 72 ÷ 8?
+Assistant: 72 ÷ 8 = 9
+User: Calculate 45 + 67
+Assistant: 45 + 67 = 112
+User: What is 200 - 76?
+Assistant: 200 - 76 = 124
+User: Solve 13 × 12
+Assistant: 13 × 12 = 156
+User: What is 96 ÷ 4?
+Assistant: 96 ÷ 4 = 24
+User: Calculate 150 + 275
+Assistant: 150 + 275 = 425
+User: What is 89 - 34?
+Assistant: 89 - 34 = 55
+User: Solve 17 × 6
+Assistant: 17 × 6 = 102
+User: What is 125 ÷ 5?
+Assistant: 125 ÷ 5 = 25
+User: Calculate 88 + 97
+Assistant: 88 + 97 = 185
+User: What is 300 - 148?
+Assistant: 300 - 148 = 152
+User: Solve 14 × 15
+Assistant: 14 × 15 = 210
+User: What is 168 ÷ 7?
+Assistant: 168 ÷ 7 = 24
+User: Calculate 234 + 129
+Assistant: 234 + 129 = 363
+User: What is 450 - 275?
+Assistant: 450 - 275 = 175
+User: Solve 19 × 8
+Assistant: 19 × 8 = 152
+User: What is 216 ÷ 9?
+Assistant: 216 ÷ 9 = 24
+User: Calculate 167 + 156
+Assistant: 167 + 156 = 323
+User: What is 400 - 267?
+Assistant: 400 - 267 = 133
+User: Solve 23 × 7
+Assistant: 23 × 7 = 161
+User: Calculate 294 + 183
+Assistant: 294 + 183 = 477
+User: What is 500 - 328?
+Assistant: 500 - 328 = 172
+User: Solve 16 × 14
+Assistant: 16 × 14 = 224
+User: What is 196 ÷ 4?
+Assistant: 196 ÷ 4 = 49
+User: Calculate 342 + 159
+Assistant: 342 + 159 = 501
+User: What is 600 - 447?
+Assistant: 600 - 447 = 153
+User: Solve 18 × 13
+Assistant: 18 × 13 = 234
+User: What is 225 ÷ 15?
+Assistant: 225 ÷ 15 = 15
+User: Calculate 456 + 327
+Assistant: 456 + 327 = 783
+User: What is 750 - 489?
+Assistant: 750 - 489 = 261
+User: Solve 24 × 11
+Assistant: 24 × 11 = 264
+User: What is 288 ÷ 12?
+Assistant: 288 ÷ 12 = 24
+User: Calculate 567 + 234
+Assistant: 567 + 234 = 801
+User: What is 800 - 573
+Assistant: 800 - 573 = 227
+User: Solve 15 × 16
+Assistant: 15 × 16 = 240
+User: What is 324 ÷ 18?
+Assistant: 324 ÷ 18 = 18
+User: Calculate 678 + 121
+Assistant: 678 + 121 = 799
+User: What is 900 - 645?
+Assistant: 900 - 645 = 255
+User: Solve 22 × 12
+Assistant: 22 × 12 = 264
+User: What is 392 ÷ 8?
+Assistant: 392 ÷ 8 = 49
+User: Calculate 445 + 336
+Assistant: 445 + 336 = 781
+User: What is 850 - 397?
+Assistant: 850 - 397 = 453
+User: Solve 17 × 15
+Assistant: 17 × 15 = 255
+User: What is 432 ÷ 16?
+Assistant: 432 ÷ 16 = 27
+User: Calculate 563 + 248
+Assistant: 563 + 248 = 811
+User: What is 950 - 678?
+Assistant: 950 - 678 = 272
+User: Solve 19 × 14
+Assistant: 19 × 14 = 266
+User: What is 504 ÷ 21?
+Assistant: 504 ÷ 21 = 24
+User: Calculate 624 + 175
+Assistant: 624 + 175 = 799
+User: What is 700 - 463?
+Assistant: 700 - 463 = 237
+User: Calculate 777 + 123
+Assistant: 777 + 123 = 900
+User: What is 825 - 492?
+Assistant: 825 - 492 = 333
+User: Solve 26 × 15
+Assistant: 26 × 15 = 390
+User: What is 544 ÷ 17?
+Assistant: 544 ÷ 17 = 32
+User: Calculate 456 + 444
+Assistant: 456 + 444 = 900
+User: What is 975 - 586?
+Assistant: 975 - 586 = 389
+User: Solve 28 × 13
+Assistant: 28 × 13 = 364
+User: What is 630 ÷ 15?
+Assistant: 630 ÷ 15 = 42
+User: Calculate 555 + 246
+Assistant: 555 + 246 = 801
+User: What is 840 - 567?
+Assistant: 840 - 567 = 273
+User: Solve 31 × 12
+Assistant: 31 × 12 = 372
+User: What is 728 ÷ 14?
+Assistant: 728 ÷ 14 = 52
+User: Calculate 666 + 134
+Assistant: 666 + 134 = 800
+User: What is 920 - 647
+Assistant: 920 - 647 = 273
+User: Solve 23 × 16
+Assistant: 23 × 16 = 368
+User: What is 812 ÷ 28?
+Assistant: 812 ÷ 28 = 29
+User: Calculate 444 + 557
+Assistant: 444 + 557 = 1001
+User: What is 880 - 594?
+Assistant: 880 - 594 = 286
+User: Solve 25 × 14
+Assistant: 25 × 14 = 350
+User: What is 756 ÷ 27?
+Assistant: 756 ÷ 27 = 28
+User: Calculate 333 + 468
+Assistant: 333 + 468 = 801
+User: What is 960 - 875?
+Assistant: 960 - 875 = 85
+User: Solve 29 × 11
+Assistant: 29 × 11 = 319
+User: What is 684 ÷ 19?
+Assistant: 684 ÷ 19 = 36
+User: Calculate 852 + 148
+Assistant: 852 + 148 = 1000
+User: What is 775 - 398?
+Assistant: 775 - 398 = 377
+User: Solve 21 × 18
+Assistant: 21 × 18 = 378
+User: What is 992 ÷ 31?
+Assistant: 992 ÷ 31 = 32
+User: Calculate 741 + 259
+Assistant: 741 + 259 = 1000
+User: What is 845 - 467?
+Assistant: 845 - 467 = 378
